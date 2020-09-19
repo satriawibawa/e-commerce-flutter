@@ -292,10 +292,10 @@ class UploadImageState extends State<UploadImage>{
               height: 10,
             ),
             Text("No Rekening", textAlign: TextAlign.center),
-            Text("0038-01-015189-53-7 (BRI)",
+            Text("0000-00-000000-00-0 (BRI)",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 textAlign: TextAlign.center),
-            Text("An. Ika Awan yuliana erfianti",
+            Text("An. SUGI ONO",
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 textAlign: TextAlign.center),
             widget._image != null
