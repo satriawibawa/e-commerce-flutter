@@ -2,7 +2,10 @@
 
 A new Flutter application.
 
-## Getting Started
+## Screenshot
+![alt text](https://github.com/satriawibawa/e-commerce-flutter/blob/master/screenshot/1.png)
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
