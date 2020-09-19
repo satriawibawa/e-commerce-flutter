@@ -4,6 +4,7 @@ A new Flutter application.
 
 ## Screenshot
 ![alt text](https://github.com/satriawibawa/e-commerce-flutter/blob/master/screenshot/1.png)
+![alt text](https://github.com/satriawibawa/e-commerce-flutter/blob/master/screenshot/2.png)
 
 ### Getting Started
 
